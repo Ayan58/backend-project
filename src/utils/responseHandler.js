@@ -6,3 +6,6 @@ class resHandler {
         this.success= statusCode
     }
 }
+
+
+export {resHandler}
